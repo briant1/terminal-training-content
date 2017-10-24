@@ -33,7 +33,9 @@ function test() {
  console.log("look ma’, no spaces");
 }
 ```
-
+ <pre>
+ test
+ </pre>
 
 ```
 double code
