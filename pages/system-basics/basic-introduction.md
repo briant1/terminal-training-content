@@ -45,4 +45,8 @@ block
 here
 ```
 
+ <pre class="brush: bash;">function test() {
+   console.log("look ma’, no spaces");
+ }</pre>
+
 ![my logo](https://s3.us-east-2.amazonaws.com/terminal-training/public/tt-full-logo-blue-black.png)
