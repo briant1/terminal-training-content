@@ -33,8 +33,10 @@ function test() {
  console.log("look ma’, no spaces");
 }
 ```
- <pre>
- test
+ <pre class="brush: bash;">
+ function test() {
+   console.log("look ma’, no spaces");
+ }
  </pre>
 
 ```
