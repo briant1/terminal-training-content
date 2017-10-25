@@ -45,7 +45,7 @@ block
 here
 ```
 
- <pre class="brush: bash;">function test() {
+ <pre>function test() {
    console.log("look ma’, no spaces");
  }</pre>
 
