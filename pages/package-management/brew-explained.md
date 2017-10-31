@@ -84,6 +84,7 @@ class Wget < Formula
     system bin/"wget", "-O", "/dev/null", "https://google.com"
   end
 end
+
 </pre>
 
 You see the install method definition as well as the desc, homepage and other properties. These define the output when we run brew commands using the wget formula.
