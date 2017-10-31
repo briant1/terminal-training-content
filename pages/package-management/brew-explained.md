@@ -24,7 +24,9 @@ Calling brew update does a git pull and gives you a nice overview
 Formulas are ruby classes which define how packages are installed. Homebrew installs to the Cellar and then symlinks some of the installation into /usr/local so that other programs can see what’s going on. 
 
 Here's an example of wget's formula 'brew edit wget'
+
 <pre>
+
 class Wget < Formula
   desc "Internet file retriever"
   homepage "https://www.gnu.org/software/wget/"
