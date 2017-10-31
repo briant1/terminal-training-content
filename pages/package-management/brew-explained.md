@@ -31,7 +31,6 @@ class Wget < Formula
   url "https://ftp.gnu.org/gnu/wget/wget-1.19.2.tar.gz"
   mirror "https://ftpmirror.gnu.org/wget/wget-1.19.2.tar.gz"
   sha256 "4f4a673b6d466efa50fbfba796bd84a46ae24e370fa562ede5b21ab53c11a920"
-
   bottle do
     sha256 "4f6896bbed75ea89f04d849357390b32e7462b86c8a3063dca85c9f5f7db1aaa" => :high_sierra
     sha256 "d8b3ae9836eed0145615ca95132e76784a93c0f4a1f43a5b4f4af49b712d3020" => :sierra
