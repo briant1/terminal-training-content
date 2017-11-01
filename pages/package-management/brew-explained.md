@@ -27,6 +27,7 @@ Here's an example of wget's formula 'brew edit wget'
 
 <pre>
 
+
 class Wget < Formula
   desc "Internet file retriever"
   homepage "https://www.gnu.org/software/wget/"
