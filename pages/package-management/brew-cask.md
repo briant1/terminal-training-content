@@ -14,4 +14,4 @@ brew cask install atom
 
 This installs the text editor [atom](https://atom.io/). You'll notice cask will install all dependencies as well.
 
-Let's try that in an exercise
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8yJqm2RBr-A?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
