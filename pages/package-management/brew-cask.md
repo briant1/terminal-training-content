@@ -3,12 +3,12 @@
 Cask is an extension for homebrew or *brew* that eliminates the need to download, then drag and drop applications to install them and it runs from the termainl!
 
 To install:
-<pre>
+<pre class='brush: bash;'>
 brew tap caskroom/cask
 </pre>
 
 Then you can type in something like: 
-<pre>
+<pre class='brush: bash;'>
 brew cask install atom
 </pre>
 
