@@ -25,8 +25,7 @@ Formulas are ruby classes which define how packages are installed. Homebrew inst
 
 Here's an example of wget's formula 'brew edit wget'
 
-<pre>
-
+<pre class='brush: bash;'>
 
 class Wget < Formula
   desc "Internet file retriever"
