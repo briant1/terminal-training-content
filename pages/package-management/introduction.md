@@ -6,7 +6,7 @@ A **package manager** automates the process of installing, updating and uninstal
 
 The most popular package manager for macOS is [brew](https://brew.sh/). To install brew run the following in your terminal: 
 
-<pre>
+<pre class='brush: bash;'>
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 </pre>
 
